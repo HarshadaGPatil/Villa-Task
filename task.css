@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img{
+    height: 500px;
+   width:100%;
+}
+.featured{
+    height: 700px;
+}
